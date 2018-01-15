@@ -1,0 +1,23 @@
+{
+  "name": "jquery-snippets",
+  "version": "1.0.0",
+  "description": "jquery snippets for your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myorangeca/jquery-snippets.git"
+  },
+  "keywords": [
+    "jquery",
+    "snippets"
+  ],
+  "author": "sunnyat ahmmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myorangeca/jquery-snippets/issues"
+  },
+  "homepage": "https://github.com/myorangeca/jquery-snippets#readme"
+}
