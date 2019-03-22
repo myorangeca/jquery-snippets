@@ -69,3 +69,14 @@ function detectIE() {
     // other browser
     return false;
 }
+
+/*
+ * Toggle text
+ * $(".example").toggleText('Initial', 'Secondary');
+ * https://stackoverflow.com/questions/2155453/jquery-toggle-text
+ */
+ $.fn.extend({
+    toggleText: function(a, b){
+        return this.text(this.text() == b ? a : b);
+    }
+});
